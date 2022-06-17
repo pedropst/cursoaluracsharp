@@ -1,0 +1,15 @@
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.exe
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.deps.json
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.runtimeconfig.json
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\bin\Debug\net5.0\ref\10-CalculaPoupanca.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\bin\Debug\net5.0\10-CalculaPoupanca.pdb
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.AssemblyInfo.cs
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\ref\10-CalculaPoupanca.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.pdb
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\10-CalculaPoupanca\obj\Debug\net5.0\10-CalculaPoupanca.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.exe
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.deps.json
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.runtimeconfig.json
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.runtimeconfig.dev.json
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\bin\Debug\net5.0\ref\1-PrimeiroProjeto.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\bin\Debug\net5.0\1-PrimeiroProjeto.pdb
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.AssemblyInfo.cs
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\ref\1-PrimeiroProjeto.dll
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.pdb
+C:\Users\pedro\Desktop\ALURA CURSO CSHARP\CursoAluraCSharp\1-PrimeiroProjeto\obj\Debug\net5.0\1-PrimeiroProjeto.genruntimeconfig.cache
